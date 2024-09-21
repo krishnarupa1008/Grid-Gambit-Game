@@ -1,9 +1,3 @@
-1. Project Title
-2. Introduction
-3. Project Structure
-4. Methodology
-5. Analysis - unpack interesting aspects, evaluations
-6. Challenges
-7. Future Work
-8. Conclusions
-9. License
+# Grid Gambit Game
+
+This little object-oriented game is a fun side project that is in its growing/development stages. For the user/player, it has some nuances and less apparent tricks already that can be used, and more are to come as the project grows.
